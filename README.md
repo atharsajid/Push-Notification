@@ -1,4 +1,4 @@
-# push_notification
+# notification
 
 A new Flutter project.
 

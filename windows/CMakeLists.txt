@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(push_notification LANGUAGES CXX)
+project(notification LANGUAGES CXX)
 
-set(BINARY_NAME "push_notification")
+set(BINARY_NAME "notification")
 
 cmake_policy(SET CMP0063 NEW)
 

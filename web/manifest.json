@@ -1,6 +1,6 @@
 {
-    "name": "push_notification",
-    "short_name": "push_notification",
+    "name": "notification",
+    "short_name": "notification",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
